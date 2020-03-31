@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成都文類
-#+DATE: 2020-03-31 11:42:23.149340
+#+DATE: 2020-03-31 11:42:23.539359
 #+PROPERTY: ID KR4h0045
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4h0045_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -316,7 +316,7 @@
 　　梔子比衆木人間誠未多於身色有用與道氣傷和紅¶
 取風霜實青看雨露柯無情移得汝貴在映紅波¶
 ¶
-　　鸂𪆟¶
+　　鸂鶒¶
 ¶
 　　故使籠寛織須知動損毛看雲莫恨望失水任呼號六¶
 翮曽經翦孤飛卒未髙且無鷹隼慮留滯莫辭勞¶

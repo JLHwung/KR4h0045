@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 成都文類
-#+DATE: 2020-03-31 11:42:23.111424
+#+DATE: 2020-03-31 11:42:23.474110
 #+PROPERTY: ID KR4h0045
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4h0045_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 醉折桃花倚釣船¶
 ¶
 <pb:KR4h0045_WYG_003-11b>¶
-　　合江舟中作　　　　　　　&KR0303;公遡¶
+　　合江舟中作　　　　　　　眺公遡¶
 ¶
 　　雲氣昏江樹春流沒釣磯如何連夜漲似欲送人歸亂¶
 石水聲急片帆風力微舟師且停櫓白鷺畏人飛¶
